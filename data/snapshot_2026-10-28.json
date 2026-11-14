@@ -1,0 +1,369 @@
+{
+ "date": "2026-10-28",
+ "source": "https://beaa.eu/collections/all (pages fetched from the public storefront)",
+ "note": "Earlier copy of listing page 3, dated 28 Oct 2026 10:26 UTC from the request timestamp in the page metadata. Only used for the before/after comparison.",
+ "products": [
+  {
+   "slug": "oversized-mohair-vest-1",
+   "name": "Vest Mohair Black",
+   "regular": 145,
+   "sale": 101.5,
+   "tags": [],
+   "accessory": false
+  },
+  {
+   "slug": "eco-leather-coat-noir-croc",
+   "name": "Eco-leather Blazer Noir Croc",
+   "regular": 279,
+   "sale": null,
+   "tags": [
+    "BL"
+   ],
+   "accessory": false
+  },
+  {
+   "slug": "top-with-tiny-straps-silk-dark-chocolate",
+   "name": "Top Tiny Straps Silk Dark Chocolate",
+   "regular": 89,
+   "sale": null,
+   "tags": [
+    "N"
+   ],
+   "accessory": false
+  },
+  {
+   "slug": "silk-satin-top-mauve",
+   "name": "Silk Satin Top Mauve",
+   "regular": 75,
+   "sale": null,
+   "tags": [
+    "N"
+   ],
+   "accessory": false
+  },
+  {
+   "slug": "jacket-yellow-saffron",
+   "name": "Jacket Yellow Saffron",
+   "regular": 279,
+   "sale": null,
+   "tags": [],
+   "accessory": false
+  },
+  {
+   "slug": "button-coat-black",
+   "name": "Button Coat Black",
+   "regular": 359,
+   "sale": null,
+   "tags": [],
+   "accessory": false
+  },
+  {
+   "slug": "button-coat-dark-brown",
+   "name": "Wool Button Coat Dark Brown",
+   "regular": 369,
+   "sale": null,
+   "tags": [
+    "BL"
+   ],
+   "accessory": false
+  },
+  {
+   "slug": "jacket-dove",
+   "name": "Jacket Dove",
+   "regular": 269,
+   "sale": null,
+   "tags": [
+    "BL"
+   ],
+   "accessory": false
+  },
+  {
+   "slug": "jacket-dark-camel",
+   "name": "Jacket Dark Camel",
+   "regular": 279,
+   "sale": null,
+   "tags": [
+    "BL"
+   ],
+   "accessory": false
+  },
+  {
+   "slug": "oversized-sweater-kidmohair-black",
+   "name": "Oversized Sweater Kidmohair Black",
+   "regular": 269,
+   "sale": null,
+   "tags": [
+    "BL"
+   ],
+   "accessory": false
+  },
+  {
+   "slug": "oversized-sweater-kidmohair-grey",
+   "name": "Oversized Sweater Mohair Grey",
+   "regular": 249,
+   "sale": null,
+   "tags": [
+    "BL"
+   ],
+   "accessory": false
+  },
+  {
+   "slug": "long-double-faced-wool-coat",
+   "name": "Long Double-faced Wool Coat",
+   "regular": 379,
+   "sale": null,
+   "tags": [
+    "BL"
+   ],
+   "accessory": false
+  },
+  {
+   "slug": "black-pleat-top",
+   "name": "Pleat Top Brown",
+   "regular": 69,
+   "sale": null,
+   "tags": [],
+   "accessory": false
+  },
+  {
+   "slug": "black-turtleneck-sweater",
+   "name": "Oversized Turtleneck Sweater Black",
+   "regular": 125,
+   "sale": null,
+   "tags": [],
+   "accessory": false
+  },
+  {
+   "slug": "linen-palazzo-trousers-sand",
+   "name": "Linen Palazzo Trousers Sand",
+   "regular": 149,
+   "sale": 89.4,
+   "tags": [],
+   "accessory": false
+  },
+  {
+   "slug": "long-skirt-enigma",
+   "name": "Long Skirt Enigma",
+   "regular": 199,
+   "sale": null,
+   "tags": [
+    "BL"
+   ],
+   "accessory": false
+  },
+  {
+   "slug": "oversized-turtleneck-sweater-platinum",
+   "name": "Oversized Turtleneck Sweater Platinum",
+   "regular": 125,
+   "sale": null,
+   "tags": [],
+   "accessory": false
+  },
+  {
+   "slug": "slightly-oversized-t-shirt",
+   "name": "White Oversized T-Shirt",
+   "regular": 69,
+   "sale": null,
+   "tags": [
+    "B"
+   ],
+   "accessory": false
+  },
+  {
+   "slug": "beige-oversized-turtleneck-sweater",
+   "name": "Oversized Turtleneck Sweater Beige",
+   "regular": 125,
+   "sale": null,
+   "tags": [],
+   "accessory": false
+  },
+  {
+   "slug": "palazzo-trousers-silk-satin-deep-plum",
+   "name": "Palazzo Trousers Deep Plum",
+   "regular": 149,
+   "sale": 104.3,
+   "tags": [],
+   "accessory": false
+  },
+  {
+   "slug": "long-skirt-sable-noir",
+   "name": "Long Skirt Sable Noir",
+   "regular": 169,
+   "sale": null,
+   "tags": [
+    "BL"
+   ],
+   "accessory": false
+  },
+  {
+   "slug": "pleat-top-black-or-white",
+   "name": "Pleat Top Black or White",
+   "regular": 69,
+   "sale": null,
+   "tags": [],
+   "accessory": false
+  },
+  {
+   "slug": "relaxwear-trousers-black",
+   "name": "Relax Wear Trousers Black",
+   "regular": 99,
+   "sale": 69.3,
+   "tags": [],
+   "accessory": false
+  },
+  {
+   "slug": "relaxwear-top-black",
+   "name": "Relax Wear Top Black",
+   "regular": 79,
+   "sale": 55.3,
+   "tags": [],
+   "accessory": false
+  },
+  {
+   "slug": "dark-brown-silk-shirt",
+   "name": "Silk Shirt Dark Brown",
+   "regular": 159,
+   "sale": null,
+   "tags": [],
+   "accessory": false
+  },
+  {
+   "slug": "silk-satin-top-rosewood-smooth",
+   "name": "Silk Satin Top Rosewood Smooth",
+   "regular": 75,
+   "sale": null,
+   "tags": [
+    "N"
+   ],
+   "accessory": false
+  },
+  {
+   "slug": "midi-skirt-rosewood-smooth",
+   "name": "Midi Skirt Rosewood Smooth",
+   "regular": 120,
+   "sale": null,
+   "tags": [
+    "N"
+   ],
+   "accessory": false
+  },
+  {
+   "slug": "jacket-blue",
+   "name": "Jacket Light Blue / Dark Blue",
+   "regular": 269,
+   "sale": null,
+   "tags": [
+    "BL"
+   ],
+   "accessory": false
+  },
+  {
+   "slug": "oversized-sweater-deep-burgundy",
+   "name": "Oversized Sweater Deep Burgundy",
+   "regular": 269,
+   "sale": null,
+   "tags": [
+    "BL"
+   ],
+   "accessory": false
+  },
+  {
+   "slug": "wool-sweater-burgundy",
+   "name": "Wool Sweater Cherry",
+   "regular": 120,
+   "sale": null,
+   "tags": [],
+   "accessory": false
+  },
+  {
+   "slug": "cashmere-sweater-gray",
+   "name": "Cashmere Sweater Gray",
+   "regular": 149,
+   "sale": null,
+   "tags": [
+    "SO"
+   ],
+   "accessory": false
+  },
+  {
+   "slug": "cashmere-sweater-camel",
+   "name": "Cashmere Sweater Camel",
+   "regular": 149,
+   "sale": null,
+   "tags": [],
+   "accessory": false
+  },
+  {
+   "slug": "regular-fit-trousers-navy",
+   "name": "Regular-fit Trousers Navy",
+   "regular": 169,
+   "sale": 143.65,
+   "tags": [],
+   "accessory": false
+  },
+  {
+   "slug": "relax-wear-top-noir-rebel",
+   "name": "Relax Wear Top Noir Rebel",
+   "regular": 79,
+   "sale": null,
+   "tags": [],
+   "accessory": false
+  },
+  {
+   "slug": "relax-wear-trousers-noir-rebel",
+   "name": "Relax Wear Trousers Noir Rebel",
+   "regular": 99,
+   "sale": null,
+   "tags": [],
+   "accessory": false
+  },
+  {
+   "slug": "silk-satin-top-seashell",
+   "name": "Silk Satin Top Seashell",
+   "regular": 75,
+   "sale": 60.0,
+   "tags": [],
+   "accessory": false
+  },
+  {
+   "slug": "long-bias-cut-skirt-cherry",
+   "name": "Long Bias-Cut Skirt Cherry",
+   "regular": 135,
+   "sale": null,
+   "tags": [
+    "N"
+   ],
+   "accessory": false
+  },
+  {
+   "slug": "pleat-top-cherry",
+   "name": "Pleat Top Cherry",
+   "regular": 69,
+   "sale": null,
+   "tags": [
+    "N"
+   ],
+   "accessory": false
+  },
+  {
+   "slug": "sweater-oversized-turtleneck-cinnamon",
+   "name": "Oversized Turtleneck Sweater Cinnamon",
+   "regular": 249,
+   "sale": null,
+   "tags": [
+    "BL"
+   ],
+   "accessory": false
+  },
+  {
+   "slug": "vegan-leather-utility-jacket",
+   "name": "Vegan Leather Utility Jacket",
+   "regular": 399,
+   "sale": null,
+   "tags": [
+    "BL"
+   ],
+   "accessory": false
+  }
+ ]
+}

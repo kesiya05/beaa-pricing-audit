@@ -1,0 +1,1207 @@
+{
+ "date": "2026-11-13",
+ "source": "https://beaa.eu/collections/all (pages fetched from the public storefront)",
+ "note": "Pages 1-3 of the shop-all collection, fetched 13 Nov 2026 ~19:08-19:21 UTC. Gift cards, beauty products and the style-session service are excluded. Page 4 of the listing (roughly the last 10 products) could not be retrieved.",
+ "products": [
+  {
+   "slug": "python-top-dark-blue",
+   "name": "Python Top Dark Blue",
+   "regular": 59,
+   "sale": 47.2,
+   "tags": [],
+   "accessory": false
+  },
+  {
+   "slug": "trousers-python-dark-blue",
+   "name": "Trousers Python Dark Blue",
+   "regular": 99,
+   "sale": 69.3,
+   "tags": [],
+   "accessory": false
+  },
+  {
+   "slug": "palazzo-trousers-forest",
+   "name": "Linen Palazzo Trousers Forest",
+   "regular": 149,
+   "sale": 89.4,
+   "tags": [],
+   "accessory": false
+  },
+  {
+   "slug": "v-neck-dress-orchid",
+   "name": "V-Neck Dress Orchid",
+   "regular": 169,
+   "sale": 67.6,
+   "tags": [
+    "B"
+   ],
+   "accessory": false
+  },
+  {
+   "slug": "palazzo-trousers-light-purple",
+   "name": "Palazzo Trousers Light Purple",
+   "regular": 149,
+   "sale": 89.4,
+   "tags": [],
+   "accessory": false
+  },
+  {
+   "slug": "silk-top-champagne",
+   "name": "Silk Top Champagne",
+   "regular": 69,
+   "sale": null,
+   "tags": [
+    "B"
+   ],
+   "accessory": false
+  },
+  {
+   "slug": "leather-belt-2",
+   "name": "Leather Belt",
+   "regular": 89,
+   "sale": null,
+   "tags": [],
+   "accessory": true
+  },
+  {
+   "slug": "relax-wear-set-mint",
+   "name": "Relax Wear Set Mint",
+   "regular": 179,
+   "sale": 89.5,
+   "tags": [],
+   "accessory": false
+  },
+  {
+   "slug": "libre-dress-green",
+   "name": "Libre Dress Green",
+   "regular": 179,
+   "sale": 107.4,
+   "tags": [
+    "B"
+   ],
+   "accessory": false
+  },
+  {
+   "slug": "libre-dress-navy",
+   "name": "Libre Dress Navy",
+   "regular": 179,
+   "sale": 107.4,
+   "tags": [
+    "B"
+   ],
+   "accessory": false
+  },
+  {
+   "slug": "palazzo-trousers-basil",
+   "name": "Palazzo Trousers Basil",
+   "regular": 149,
+   "sale": 104.3,
+   "tags": [],
+   "accessory": false
+  },
+  {
+   "slug": "palazzo-trousers-espresso",
+   "name": "Palazzo Trousers Espresso",
+   "regular": 149,
+   "sale": 104.3,
+   "tags": [],
+   "accessory": false
+  },
+  {
+   "slug": "midi-skirt-deep-plum",
+   "name": "Midi Skirt Deep Plum",
+   "regular": 120,
+   "sale": 96.0,
+   "tags": [
+    "N"
+   ],
+   "accessory": false
+  },
+  {
+   "slug": "long-skirt-stardust-white",
+   "name": "Long Skirt Stardust White",
+   "regular": 199,
+   "sale": 159.2,
+   "tags": [],
+   "accessory": false
+  },
+  {
+   "slug": "double-pleat-trousers-desert-shade",
+   "name": "Pleated Trousers Desert Shade",
+   "regular": 159,
+   "sale": 95.4,
+   "tags": [],
+   "accessory": false
+  },
+  {
+   "slug": "double-pleat-trousers-coral",
+   "name": "Pleated Trousers Coral",
+   "regular": 159,
+   "sale": 63.6,
+   "tags": [],
+   "accessory": false
+  },
+  {
+   "slug": "shirt-coral",
+   "name": "Shirt Coral",
+   "regular": 139,
+   "sale": null,
+   "tags": [],
+   "accessory": false
+  },
+  {
+   "slug": "sleeveless-v-neck-dress-black",
+   "name": "V-Neck Dress Black",
+   "regular": 179,
+   "sale": 107.4,
+   "tags": [
+    "B"
+   ],
+   "accessory": false
+  },
+  {
+   "slug": "light-blue-tousers",
+   "name": "Light Blue Trousers",
+   "regular": 139,
+   "sale": 69.5,
+   "tags": [],
+   "accessory": false
+  },
+  {
+   "slug": "regular-fit-trousers-greige",
+   "name": "Regular-fit Trousers Greige",
+   "regular": 169,
+   "sale": null,
+   "tags": [
+    "BL"
+   ],
+   "accessory": false
+  },
+  {
+   "slug": "regular-fit-trousers-lavender-gray",
+   "name": "Regular-fit Trousers Lavender Gray",
+   "regular": 169,
+   "sale": 118.3,
+   "tags": [
+    "B"
+   ],
+   "accessory": false
+  },
+  {
+   "slug": "midi-skirt-rosewood",
+   "name": "Midi Skirt Rosewood Crushed",
+   "regular": 120,
+   "sale": 96.0,
+   "tags": [
+    "B"
+   ],
+   "accessory": false
+  },
+  {
+   "slug": "long-bias-cut-skirt",
+   "name": "Crushed Long Bias-cut Skirt",
+   "regular": 135,
+   "sale": 114.75,
+   "tags": [
+    "B"
+   ],
+   "accessory": false
+  },
+  {
+   "slug": "silk-shirt-black-s-l",
+   "name": "Silk Shirt Black",
+   "regular": 159,
+   "sale": null,
+   "tags": [
+    "BL"
+   ],
+   "accessory": false
+  },
+  {
+   "slug": "oversized-t-shirt-black",
+   "name": "Oversized T-Shirt Black",
+   "regular": 69,
+   "sale": null,
+   "tags": [
+    "B"
+   ],
+   "accessory": false
+  },
+  {
+   "slug": "blouse-milk",
+   "name": "Blouse Milk",
+   "regular": 149,
+   "sale": 119.2,
+   "tags": [
+    "B"
+   ],
+   "accessory": false
+  },
+  {
+   "slug": "socks-i-am-beaa-1",
+   "name": "Socks I am BeaA",
+   "regular": 14.9,
+   "sale": null,
+   "tags": [],
+   "accessory": true
+  },
+  {
+   "slug": "silk-palazzo-trousers-champagne",
+   "name": "Silk Palazzo Trousers Champagne",
+   "regular": 149,
+   "sale": 104.3,
+   "tags": [
+    "B"
+   ],
+   "accessory": false
+  },
+  {
+   "slug": "baseball-cap-black",
+   "name": "Baseball Cap",
+   "regular": 49,
+   "sale": null,
+   "tags": [],
+   "accessory": true
+  },
+  {
+   "slug": "python-top-gray-blue",
+   "name": "Python Top Gray",
+   "regular": 59,
+   "sale": null,
+   "tags": [],
+   "accessory": false
+  },
+  {
+   "slug": "riviera-shirt-marina-stripe",
+   "name": "Riviera Shirt Marina",
+   "regular": 119,
+   "sale": null,
+   "tags": [
+    "B"
+   ],
+   "accessory": false
+  },
+  {
+   "slug": "shirt-riviera-noir-stripe",
+   "name": "Riviera Shirt Noir Stripe",
+   "regular": 119,
+   "sale": null,
+   "tags": [
+    "B"
+   ],
+   "accessory": false
+  },
+  {
+   "slug": "midi-skirt-silk-satin-cream",
+   "name": "Midi Skirt Silk Satin Cream",
+   "regular": 120,
+   "sale": 96.0,
+   "tags": [
+    "B"
+   ],
+   "accessory": false
+  },
+  {
+   "slug": "two-sided-vest-black",
+   "name": "Two-sided Vest Black",
+   "regular": 275,
+   "sale": 192.5,
+   "tags": [],
+   "accessory": false
+  },
+  {
+   "slug": "relax-wear-set-forest-green",
+   "name": "Relax Wear Set Forest Green",
+   "regular": 199,
+   "sale": 159.2,
+   "tags": [],
+   "accessory": false
+  },
+  {
+   "slug": "midi-skirt-silk-satin-black",
+   "name": "Midi Skirt Silk Satin Black",
+   "regular": 120,
+   "sale": 84.0,
+   "tags": [
+    "B"
+   ],
+   "accessory": false
+  },
+  {
+   "slug": "black-silk-palazzo-trousers",
+   "name": "Black Silk Palazzo Trousers",
+   "regular": 149,
+   "sale": 104.3,
+   "tags": [
+    "B"
+   ],
+   "accessory": false
+  },
+  {
+   "slug": "regular-fit-trousers",
+   "name": "Regular-fit Trousers Black/Gray",
+   "regular": 169,
+   "sale": 135.2,
+   "tags": [],
+   "accessory": false
+  },
+  {
+   "slug": "top-silk-white",
+   "name": "White Silk Top",
+   "regular": 69,
+   "sale": null,
+   "tags": [
+    "B"
+   ],
+   "accessory": false
+  },
+  {
+   "slug": "blouse-black",
+   "name": "Textured Black Blouse",
+   "regular": 179,
+   "sale": null,
+   "tags": [
+    "BL"
+   ],
+   "accessory": false
+  },
+  {
+   "slug": "top-with-tiny-straps-silk-colorful",
+   "name": "Silk Strap Tops (choose colour)",
+   "regular": 89,
+   "sale": null,
+   "tags": [
+    "BL"
+   ],
+   "accessory": false
+  },
+  {
+   "slug": "vest-black-wool",
+   "name": "Black Wool Midi Vest",
+   "regular": 169,
+   "sale": null,
+   "tags": [
+    "BL"
+   ],
+   "accessory": false
+  },
+  {
+   "slug": "forest-green-palazzo-trousers",
+   "name": "Palazzo Trousers Silk Forest Green",
+   "regular": 149,
+   "sale": null,
+   "tags": [],
+   "accessory": false
+  },
+  {
+   "slug": "black-silk-top-1",
+   "name": "Black Silk Top",
+   "regular": 69,
+   "sale": null,
+   "tags": [
+    "B"
+   ],
+   "accessory": false
+  },
+  {
+   "slug": "midi-vest-derk-gray",
+   "name": "Vest Midi Dark Gray",
+   "regular": 169,
+   "sale": null,
+   "tags": [
+    "BL"
+   ],
+   "accessory": false
+  },
+  {
+   "slug": "black-palazzo-trousers-1",
+   "name": "Black Palazzo Pants",
+   "regular": 149,
+   "sale": 104.3,
+   "tags": [
+    "B"
+   ],
+   "accessory": false
+  },
+  {
+   "slug": "white-shirt",
+   "name": "Shirt White",
+   "regular": 129,
+   "sale": 77.4,
+   "tags": [],
+   "accessory": false
+  },
+  {
+   "slug": "monaco-shirt-white",
+   "name": "Monaco Shirt White",
+   "regular": 129,
+   "sale": null,
+   "tags": [
+    "B"
+   ],
+   "accessory": false
+  },
+  {
+   "slug": "beaa-leather-bag",
+   "name": "BeaA Leather Bag",
+   "regular": 385,
+   "sale": null,
+   "tags": [
+    "N"
+   ],
+   "accessory": true
+  },
+  {
+   "slug": "top-with-tiny-straps-silk-champagne-1",
+   "name": "Top Tiny Straps Silk Champagne",
+   "regular": 89,
+   "sale": null,
+   "tags": [
+    "B"
+   ],
+   "accessory": false
+  },
+  {
+   "slug": "top-silk-metallic",
+   "name": "Top Silk Metallic",
+   "regular": 69,
+   "sale": 41.4,
+   "tags": [],
+   "accessory": false
+  },
+  {
+   "slug": "maxi-cardigan-black",
+   "name": "Maxi Cardigan Black",
+   "regular": 199,
+   "sale": 139.3,
+   "tags": [],
+   "accessory": false
+  },
+  {
+   "slug": "blouse-black-1",
+   "name": "Blouse Black",
+   "regular": 149,
+   "sale": null,
+   "tags": [
+    "B"
+   ],
+   "accessory": false
+  },
+  {
+   "slug": "open-back-silk-dress-in-rich-blue-color",
+   "name": "Open-Back Dress Dark Blue",
+   "regular": 199,
+   "sale": null,
+   "tags": [],
+   "accessory": false
+  },
+  {
+   "slug": "sleep-eye-mask-bamboo-edition",
+   "name": "Sleeping Mask",
+   "regular": 65,
+   "sale": null,
+   "tags": [],
+   "accessory": true
+  },
+  {
+   "slug": "open-back-long-dress-cocoa-edition-1",
+   "name": "Open Back Long Dress Cocoa",
+   "regular": 189,
+   "sale": null,
+   "tags": [],
+   "accessory": false
+  },
+  {
+   "slug": "maxi-dress-cocoa-edition",
+   "name": "Maxi Dress Cocoa",
+   "regular": 189,
+   "sale": null,
+   "tags": [],
+   "accessory": false
+  },
+  {
+   "slug": "black-open-back-dress",
+   "name": "Open-back Maxi Dress Black",
+   "regular": 179,
+   "sale": null,
+   "tags": [
+    "B"
+   ],
+   "accessory": false
+  },
+  {
+   "slug": "long-dress-with-straps",
+   "name": "Low-back Maxi Dress Straps Black",
+   "regular": 179,
+   "sale": null,
+   "tags": [],
+   "accessory": false
+  },
+  {
+   "slug": "relaxed-fit-sweater",
+   "name": "Relaxed Fit Sweater Milk White/Beige",
+   "regular": 135,
+   "sale": 94.5,
+   "tags": [],
+   "accessory": false
+  },
+  {
+   "slug": "two-sided-vest",
+   "name": "Two-sided Vest",
+   "regular": 275,
+   "sale": 192.5,
+   "tags": [],
+   "accessory": false
+  },
+  {
+   "slug": "black-silk-open-back-dress",
+   "name": "Black Open-back Silk Maxi Dress",
+   "regular": 199,
+   "sale": null,
+   "tags": [],
+   "accessory": false
+  },
+  {
+   "slug": "chacolate-color-palazzo-trousers",
+   "name": "Palazzo Trousers Silk Chocolate",
+   "regular": 149,
+   "sale": null,
+   "tags": [],
+   "accessory": false
+  },
+  {
+   "slug": "black-morning-robe",
+   "name": "Morning Robe Black",
+   "regular": 249,
+   "sale": null,
+   "tags": [
+    "BL"
+   ],
+   "accessory": false
+  },
+  {
+   "slug": "chocolate-silk-top",
+   "name": "Top Silk Chocolate",
+   "regular": 69,
+   "sale": null,
+   "tags": [],
+   "accessory": false
+  },
+  {
+   "slug": "elastic-hair-tie",
+   "name": "Hair Tie",
+   "regular": 65,
+   "sale": null,
+   "tags": [],
+   "accessory": true
+  },
+  {
+   "slug": "trousers-beaa-x-sfinksa",
+   "name": "Extra Wide-Leg Trousers BEAA x SFINKSA",
+   "regular": 149,
+   "sale": null,
+   "tags": [],
+   "accessory": false
+  },
+  {
+   "slug": "black-silk-top-with-tiny-straps",
+   "name": "Top Tiny Straps Silk Black",
+   "regular": 89,
+   "sale": null,
+   "tags": [
+    "BL"
+   ],
+   "accessory": false
+  },
+  {
+   "slug": "silk-satin-top-black",
+   "name": "Silk Satin Top Black",
+   "regular": 75,
+   "sale": 52.5,
+   "tags": [
+    "B"
+   ],
+   "accessory": false
+  },
+  {
+   "slug": "crashed-silk-trousers",
+   "name": "Crushed Silk Trousers Black",
+   "regular": 169,
+   "sale": null,
+   "tags": [
+    "BL"
+   ],
+   "accessory": false
+  },
+  {
+   "slug": "open-back-maxi-dress-with-straps-basil",
+   "name": "Silk Open-back Maxi Dress Basil",
+   "regular": 189,
+   "sale": null,
+   "tags": [],
+   "accessory": false
+  },
+  {
+   "slug": "checkmate-maxi-cardigan",
+   "name": "Checkmate Maxi Cardigan",
+   "regular": 199,
+   "sale": null,
+   "tags": [],
+   "accessory": false
+  },
+  {
+   "slug": "silk-shirt-white",
+   "name": "Silk Shirt White",
+   "regular": 159,
+   "sale": null,
+   "tags": [
+    "BL"
+   ],
+   "accessory": false
+  },
+  {
+   "slug": "shirt-black",
+   "name": "Barcelona Shirt Black",
+   "regular": 139,
+   "sale": 111.2,
+   "tags": [],
+   "accessory": false
+  },
+  {
+   "slug": "kid-mohair-sweater-burgundy-v-neck",
+   "name": "Kid Mohair Sweater Burgundy",
+   "regular": 145,
+   "sale": 116.0,
+   "tags": [],
+   "accessory": false
+  },
+  {
+   "slug": "silk-satin-top-rosewood",
+   "name": "Silk Satin Top Rosewood Crushed",
+   "regular": 75,
+   "sale": 60.0,
+   "tags": [
+    "B"
+   ],
+   "accessory": false
+  },
+  {
+   "slug": "silk-shirt-basil",
+   "name": "Silk Shirt Basil",
+   "regular": 159,
+   "sale": 135.15,
+   "tags": [],
+   "accessory": false
+  },
+  {
+   "slug": "silk-shirt-champagne",
+   "name": "Silk Shirt Champagne",
+   "regular": 159,
+   "sale": 135.15,
+   "tags": [],
+   "accessory": false
+  },
+  {
+   "slug": "square-top-flowers",
+   "name": "Square Top Flowers",
+   "regular": 69,
+   "sale": 48.3,
+   "tags": [],
+   "accessory": false
+  },
+  {
+   "slug": "riviera-shirt-sky-stripes",
+   "name": "Riviera Shirt Sky Stripes",
+   "regular": 119,
+   "sale": 83.3,
+   "tags": [],
+   "accessory": false
+  },
+  {
+   "slug": "top-with-tiny-straps-silk-forest-green",
+   "name": "Top Tiny Straps Silk Forest Green",
+   "regular": 89,
+   "sale": null,
+   "tags": [
+    "N"
+   ],
+   "accessory": false
+  },
+  {
+   "slug": "midi-skirt-extended-length-mauve",
+   "name": "Midi Skirt Mauve",
+   "regular": 120,
+   "sale": 84.0,
+   "tags": [
+    "N"
+   ],
+   "accessory": false
+  },
+  {
+   "slug": "silk-satin-top-white",
+   "name": "Silk Satin Top White",
+   "regular": 75,
+   "sale": null,
+   "tags": [],
+   "accessory": false
+  },
+  {
+   "slug": "silk-satin-top-deep-plum",
+   "name": "Silk Satin Top Deep Plum",
+   "regular": 75,
+   "sale": 60.0,
+   "tags": [
+    "N"
+   ],
+   "accessory": false
+  },
+  {
+   "slug": "top-silk-dark-chocolate",
+   "name": "Top Silk Dark Chocolate",
+   "regular": 69,
+   "sale": null,
+   "tags": [
+    "N"
+   ],
+   "accessory": false
+  },
+  {
+   "slug": "palazzo-trousers-silk-dark-chocolate",
+   "name": "Palazzo Trousers Silk Dark Chocolate",
+   "regular": 149,
+   "sale": null,
+   "tags": [],
+   "accessory": false
+  },
+  {
+   "slug": "oversized-mohair-vest-1",
+   "name": "Vest Mohair Black",
+   "regular": 145,
+   "sale": 101.5,
+   "tags": [],
+   "accessory": false
+  },
+  {
+   "slug": "eco-leather-coat-noir-croc",
+   "name": "Eco-leather Blazer Noir Croc",
+   "regular": 279,
+   "sale": 223.2,
+   "tags": [
+    "N"
+   ],
+   "accessory": false
+  },
+  {
+   "slug": "top-with-tiny-straps-silk-dark-chocolate",
+   "name": "Top Tiny Straps Silk Dark Chocolate",
+   "regular": 89,
+   "sale": null,
+   "tags": [],
+   "accessory": false
+  },
+  {
+   "slug": "silk-satin-top-mauve",
+   "name": "Silk Satin Top Mauve",
+   "regular": 75,
+   "sale": 52.5,
+   "tags": [
+    "N"
+   ],
+   "accessory": false
+  },
+  {
+   "slug": "jacket-yellow-saffron",
+   "name": "Jacket Yellow Saffron",
+   "regular": 279,
+   "sale": 195.3,
+   "tags": [],
+   "accessory": false
+  },
+  {
+   "slug": "button-coat-black",
+   "name": "Button Coat Black",
+   "regular": 359,
+   "sale": 305.15,
+   "tags": [],
+   "accessory": false
+  },
+  {
+   "slug": "button-coat-dark-brown",
+   "name": "Wool Button Coat Dark Brown",
+   "regular": 369,
+   "sale": 313.65,
+   "tags": [],
+   "accessory": false
+  },
+  {
+   "slug": "jacket-dove",
+   "name": "Jacket Dove",
+   "regular": 269,
+   "sale": 215.2,
+   "tags": [],
+   "accessory": false
+  },
+  {
+   "slug": "jacket-dark-camel",
+   "name": "Jacket Dark Camel",
+   "regular": 279,
+   "sale": 223.2,
+   "tags": [],
+   "accessory": false
+  },
+  {
+   "slug": "oversized-sweater-kidmohair-black",
+   "name": "Oversized Sweater Kidmohair Black",
+   "regular": 269,
+   "sale": null,
+   "tags": [
+    "BL"
+   ],
+   "accessory": false
+  },
+  {
+   "slug": "oversized-sweater-kidmohair-browm",
+   "name": "Oversized Sweater Brown",
+   "regular": 269,
+   "sale": null,
+   "tags": [
+    "BL"
+   ],
+   "accessory": false
+  },
+  {
+   "slug": "oversized-sweater-kidmohair-grey",
+   "name": "Oversized Sweater Mohair Grey",
+   "regular": 249,
+   "sale": null,
+   "tags": [
+    "BL"
+   ],
+   "accessory": false
+  },
+  {
+   "slug": "long-double-faced-wool-coat",
+   "name": "Long Double-faced Wool Coat",
+   "regular": 379,
+   "sale": null,
+   "tags": [
+    "BL"
+   ],
+   "accessory": false
+  },
+  {
+   "slug": "black-pleat-top",
+   "name": "Pleat Top Brown",
+   "regular": 69,
+   "sale": null,
+   "tags": [],
+   "accessory": false
+  },
+  {
+   "slug": "black-turtleneck-sweater",
+   "name": "Oversized Turtleneck Sweater Black",
+   "regular": 125,
+   "sale": 87.5,
+   "tags": [],
+   "accessory": false
+  },
+  {
+   "slug": "linen-palazzo-trousers-sand",
+   "name": "Linen Palazzo Trousers Sand",
+   "regular": 149,
+   "sale": 89.4,
+   "tags": [],
+   "accessory": false
+  },
+  {
+   "slug": "long-skirt-enigma",
+   "name": "Long Skirt Enigma",
+   "regular": 199,
+   "sale": null,
+   "tags": [
+    "BL"
+   ],
+   "accessory": false
+  },
+  {
+   "slug": "oversized-turtleneck-sweater-platinum",
+   "name": "Oversized Turtleneck Sweater Platinum",
+   "regular": 125,
+   "sale": 87.5,
+   "tags": [
+    "SO"
+   ],
+   "accessory": false
+  },
+  {
+   "slug": "slightly-oversized-t-shirt",
+   "name": "White Oversized T-Shirt",
+   "regular": 69,
+   "sale": null,
+   "tags": [
+    "B"
+   ],
+   "accessory": false
+  },
+  {
+   "slug": "beige-oversized-turtleneck-sweater",
+   "name": "Oversized Turtleneck Sweater Beige",
+   "regular": 125,
+   "sale": 87.5,
+   "tags": [],
+   "accessory": false
+  },
+  {
+   "slug": "palazzo-trousers-silk-satin-deep-plum",
+   "name": "Palazzo Trousers Deep Plum",
+   "regular": 149,
+   "sale": 104.3,
+   "tags": [],
+   "accessory": false
+  },
+  {
+   "slug": "long-skirt-sable-noir",
+   "name": "Long Skirt Sable Noir",
+   "regular": 169,
+   "sale": null,
+   "tags": [
+    "BL"
+   ],
+   "accessory": false
+  },
+  {
+   "slug": "silk-satin-top-cloud-dancer",
+   "name": "Silk Satin Top Cloud Dancer",
+   "regular": 75,
+   "sale": 52.5,
+   "tags": [],
+   "accessory": false
+  },
+  {
+   "slug": "pleat-top-black-or-white",
+   "name": "Pleat Top Black or White",
+   "regular": 69,
+   "sale": null,
+   "tags": [],
+   "accessory": false
+  },
+  {
+   "slug": "relaxwear-trousers-black",
+   "name": "Relax Wear Trousers Black",
+   "regular": 99,
+   "sale": 69.3,
+   "tags": [],
+   "accessory": false
+  },
+  {
+   "slug": "relaxwear-top-black",
+   "name": "Relax Wear Top Black",
+   "regular": 79,
+   "sale": 55.3,
+   "tags": [],
+   "accessory": false
+  },
+  {
+   "slug": "dark-brown-silk-shirt",
+   "name": "Silk Shirt Dark Brown",
+   "regular": 159,
+   "sale": null,
+   "tags": [],
+   "accessory": false
+  },
+  {
+   "slug": "silk-satin-top-rosewood-smooth",
+   "name": "Silk Satin Top Rosewood Smooth",
+   "regular": 75,
+   "sale": null,
+   "tags": [
+    "N"
+   ],
+   "accessory": false
+  },
+  {
+   "slug": "midi-skirt-rosewood-smooth",
+   "name": "Midi Skirt Rosewood Smooth",
+   "regular": 120,
+   "sale": null,
+   "tags": [
+    "N"
+   ],
+   "accessory": false
+  },
+  {
+   "slug": "jacket-blue",
+   "name": "Jacket Light Blue / Dark Blue",
+   "regular": 269,
+   "sale": 215.2,
+   "tags": [],
+   "accessory": false
+  },
+  {
+   "slug": "oversized-sweater-deep-burgundy",
+   "name": "Oversized Sweater Deep Burgundy",
+   "regular": 269,
+   "sale": null,
+   "tags": [
+    "BL"
+   ],
+   "accessory": false
+  },
+  {
+   "slug": "wool-sweater-burgundy",
+   "name": "Wool Sweater Cherry",
+   "regular": 120,
+   "sale": 84.0,
+   "tags": [],
+   "accessory": false
+  },
+  {
+   "slug": "cashmere-sweater-gray",
+   "name": "Cashmere Sweater Gray",
+   "regular": 149,
+   "sale": null,
+   "tags": [],
+   "accessory": false
+  },
+  {
+   "slug": "cashmere-sweater-camel",
+   "name": "Cashmere Sweater Camel",
+   "regular": 149,
+   "sale": null,
+   "tags": [],
+   "accessory": false
+  },
+  {
+   "slug": "regular-fit-trousers-navy",
+   "name": "Regular-fit Trousers Navy",
+   "regular": 169,
+   "sale": 118.3,
+   "tags": [],
+   "accessory": false
+  },
+  {
+   "slug": "relax-wear-top-noir-rebel",
+   "name": "Relax Wear Top Noir Rebel",
+   "regular": 79,
+   "sale": null,
+   "tags": [],
+   "accessory": false
+  },
+  {
+   "slug": "relax-wear-trousers-noir-rebel",
+   "name": "Relax Wear Trousers Noir Rebel",
+   "regular": 99,
+   "sale": null,
+   "tags": [],
+   "accessory": false
+  },
+  {
+   "slug": "silk-satin-top-seashell",
+   "name": "Silk Satin Top Seashell",
+   "regular": 75,
+   "sale": 60.0,
+   "tags": [],
+   "accessory": false
+  },
+  {
+   "slug": "long-bias-cut-skirt-cherry",
+   "name": "Long Bias-Cut Skirt Cherry",
+   "regular": 135,
+   "sale": 108.0,
+   "tags": [
+    "N"
+   ],
+   "accessory": false
+  },
+  {
+   "slug": "pleat-top-cherry",
+   "name": "Pleat Top Cherry",
+   "regular": 69,
+   "sale": 55.2,
+   "tags": [
+    "N"
+   ],
+   "accessory": false
+  },
+  {
+   "slug": "silk-shirt-dark-red",
+   "name": "Silk Shirt Dark Red",
+   "regular": 159,
+   "sale": null,
+   "tags": [
+    "BL"
+   ],
+   "accessory": false
+  },
+  {
+   "slug": "sweater-oversized-turtleneck-cinnamon",
+   "name": "Oversized Turtleneck Sweater Cinnamon",
+   "regular": 249,
+   "sale": null,
+   "tags": [
+    "BL"
+   ],
+   "accessory": false
+  },
+  {
+   "slug": "vegan-leather-utility-jacket",
+   "name": "Vegan Leather Utility Jacket",
+   "regular": 399,
+   "sale": null,
+   "tags": [
+    "BL"
+   ],
+   "accessory": false
+  },
+  {
+   "slug": "sheer-chiffon-blouse",
+   "name": "Sheer Chiffon Blouse",
+   "regular": 169,
+   "sale": null,
+   "tags": [
+    "BL"
+   ],
+   "accessory": false
+  },
+  {
+   "slug": "fantasy-tweed-cardigan-black",
+   "name": "Fantasy Tweed Cardigan Black",
+   "regular": 210,
+   "sale": null,
+   "tags": [
+    "N"
+   ],
+   "accessory": false
+  },
+  {
+   "slug": "feux-suede-shirt",
+   "name": "Feux Suede Shirt",
+   "regular": 169,
+   "sale": null,
+   "tags": [
+    "N"
+   ],
+   "accessory": false
+  },
+  {
+   "slug": "riviera-shirt-earth-stripe",
+   "name": "Riviera Shirt Earth Stripe",
+   "regular": 119,
+   "sale": null,
+   "tags": [
+    "SO"
+   ],
+   "accessory": false
+  },
+  {
+   "slug": "light-sweater-kidmohair-merino-brown",
+   "name": "Light Sweater Kidmohair-Merino Brown",
+   "regular": 99,
+   "sale": null,
+   "tags": [
+    "N"
+   ],
+   "accessory": false
+  }
+ ]
+}

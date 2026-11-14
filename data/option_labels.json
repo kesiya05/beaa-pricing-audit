@@ -1,0 +1,380 @@
+{
+ "captured": "2026-11-13",
+ "source": "Size and Color filters on https://beaa.eu/collections/all",
+ "sizes": [
+  {
+   "label": "XS",
+   "products": 51
+  },
+  {
+   "label": "XS/S",
+   "products": 2
+  },
+  {
+   "label": "S",
+   "products": 77
+  },
+  {
+   "label": "M",
+   "products": 30
+  },
+  {
+   "label": "M/L",
+   "products": 7
+  },
+  {
+   "label": "L",
+   "products": 76
+  },
+  {
+   "label": "XL",
+   "products": 30
+  },
+  {
+   "label": "2XL",
+   "products": 65
+  },
+  {
+   "label": "3XL",
+   "products": 9
+  },
+  {
+   "label": "4XL",
+   "products": 6
+  },
+  {
+   "label": "50 ml",
+   "products": 1
+  },
+  {
+   "label": "100 ml",
+   "products": 2
+  },
+  {
+   "label": "2XL/3XL",
+   "products": 3
+  },
+  {
+   "label": "One size",
+   "products": 21
+  },
+  {
+   "label": "One size (L-2XL)",
+   "products": 1
+  },
+  {
+   "label": "One size (S-2XL)",
+   "products": 3
+  },
+  {
+   "label": "One size (XS-2XL)",
+   "products": 5
+  },
+  {
+   "label": "One Size (XS-3XL)",
+   "products": 1
+  },
+  {
+   "label": "One size (XS-M)",
+   "products": 1
+  },
+  {
+   "label": "One size (XS-XL)",
+   "products": 1
+  },
+  {
+   "label": "One size( S-XL)",
+   "products": 2
+  },
+  {
+   "label": "Personalized size (XXS-3XL)",
+   "products": 5
+  },
+  {
+   "label": "S-2XL",
+   "products": 3
+  },
+  {
+   "label": "S-L",
+   "products": 22
+  },
+  {
+   "label": "S-XL",
+   "products": 4
+  },
+  {
+   "label": "XL-2XL",
+   "products": 17
+  },
+  {
+   "label": "XL/2XL",
+   "products": 3
+  }
+ ],
+ "colours": [
+  {
+   "label": "Basil",
+   "products": 1
+  },
+  {
+   "label": "Beige",
+   "products": 16
+  },
+  {
+   "label": "Black",
+   "products": 40
+  },
+  {
+   "label": "Black Cotton",
+   "products": 1
+  },
+  {
+   "label": "Black Eco Leather",
+   "products": 1
+  },
+  {
+   "label": "Black Python Polyester",
+   "products": 1
+  },
+  {
+   "label": "Black Silk",
+   "products": 1
+  },
+  {
+   "label": "Black silk",
+   "products": 1
+  },
+  {
+   "label": "Blue",
+   "products": 3
+  },
+  {
+   "label": "Bordo",
+   "products": 1
+  },
+  {
+   "label": "Brown",
+   "products": 6
+  },
+  {
+   "label": "Brown crushed",
+   "products": 2
+  },
+  {
+   "label": "Brown smooth",
+   "products": 1
+  },
+  {
+   "label": "Brown/White",
+   "products": 1
+  },
+  {
+   "label": "Champagne silk",
+   "products": 2
+  },
+  {
+   "label": "Cherry",
+   "products": 2
+  },
+  {
+   "label": "Cool brown",
+   "products": 1
+  },
+  {
+   "label": "Cotton with print",
+   "products": 1
+  },
+  {
+   "label": "Cream Cotton",
+   "products": 1
+  },
+  {
+   "label": "Dark blue",
+   "products": 5
+  },
+  {
+   "label": "Dark blue silk",
+   "products": 2
+  },
+  {
+   "label": "Dark Blue stripes",
+   "products": 1
+  },
+  {
+   "label": "Dark Brown",
+   "products": 5
+  },
+  {
+   "label": "Dark brown",
+   "products": 1
+  },
+  {
+   "label": "Dark Camel",
+   "products": 1
+  },
+  {
+   "label": "Dark gray",
+   "products": 1
+  },
+  {
+   "label": "Dark Grey",
+   "products": 1
+  },
+  {
+   "label": "Dark Plum",
+   "products": 1
+  },
+  {
+   "label": "Dark red",
+   "products": 1
+  },
+  {
+   "label": "Deep Burgundy",
+   "products": 1
+  },
+  {
+   "label": "Deep Plum",
+   "products": 2
+  },
+  {
+   "label": "Deep Purple",
+   "products": 1
+  },
+  {
+   "label": "Dove",
+   "products": 1
+  },
+  {
+   "label": "Forest Green",
+   "products": 1
+  },
+  {
+   "label": "Gray",
+   "products": 4
+  },
+  {
+   "label": "Gray Cotton",
+   "products": 1
+  },
+  {
+   "label": "Grayish Green",
+   "products": 1
+  },
+  {
+   "label": "Grayish purple",
+   "products": 1
+  },
+  {
+   "label": "Green",
+   "products": 6
+  },
+  {
+   "label": "Grey",
+   "products": 1
+  },
+  {
+   "label": "Greyish Beige",
+   "products": 1
+  },
+  {
+   "label": "Khaki brown",
+   "products": 1
+  },
+  {
+   "label": "Lavender Gray",
+   "products": 1
+  },
+  {
+   "label": "Light blue",
+   "products": 2
+  },
+  {
+   "label": "Light Blue stripes",
+   "products": 1
+  },
+  {
+   "label": "Light Brown",
+   "products": 1
+  },
+  {
+   "label": "Light gray",
+   "products": 2
+  },
+  {
+   "label": "Light grey",
+   "products": 1
+  },
+  {
+   "label": "Mauve",
+   "products": 1
+  },
+  {
+   "label": "Metallic",
+   "products": 1
+  },
+  {
+   "label": "Midnight blue",
+   "products": 1
+  },
+  {
+   "label": "Milk white",
+   "products": 3
+  },
+  {
+   "label": "Mint green",
+   "products": 1
+  },
+  {
+   "label": "Moss Green",
+   "products": 1
+  },
+  {
+   "label": "Off-white",
+   "products": 1
+  },
+  {
+   "label": "Pink-Orange",
+   "products": 2
+  },
+  {
+   "label": "Purple",
+   "products": 2
+  },
+  {
+   "label": "Red 3/4 sleeves",
+   "products": 1
+  },
+  {
+   "label": "Red long sleeves",
+   "products": 1
+  },
+  {
+   "label": "Warm brown",
+   "products": 1
+  },
+  {
+   "label": "White",
+   "products": 11
+  },
+  {
+   "label": "White crinkled",
+   "products": 1
+  },
+  {
+   "label": "White silk",
+   "products": 1
+  },
+  {
+   "label": "White with Black stripes",
+   "products": 1
+  },
+  {
+   "label": "White/black stripes",
+   "products": 1
+  },
+  {
+   "label": "Yellow",
+   "products": 1
+  }
+ ]
+}
